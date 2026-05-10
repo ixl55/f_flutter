@@ -222,8 +222,12 @@ If you encounter any issues or have questions, please open an [issue](https://gi
 
 <div align="center">
 
-**Made with ❤️ by [ixl55](https://github.com/ixl55)**
+
 
 *Give this project a ⭐ if you found it helpful!*
 
 </div>
+
+# END
+
+<img src="https://th.bing.com/th/id/R.ba83d4b3fd2099e44fe580d519e08037?rik=NJoyNWb%2boU7wXQ&pid=ImgRaw&r=0" width="350">
